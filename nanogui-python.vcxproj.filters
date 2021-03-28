@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Projects\tunnerer\libs\nanogui-sdl2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\main.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\constants_glfw.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\constants_entypo.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\eigen.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\widget.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\layout.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\basics.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\button.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\tabs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\textbox.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\glcanvas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\formhelper.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\misc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\glutil.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui-python-obj.dir\$(Configuration)\nanovg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{F48C6671-F74A-39AA-B723-093DE9A4CA3D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

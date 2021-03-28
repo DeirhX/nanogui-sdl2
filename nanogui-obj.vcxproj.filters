@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\ext\nanovg\src\nanovg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\ext\glad\src\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\nanogui_resources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\glutil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\theme.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\layout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\label.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\popup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\checkbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\popupbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\combobox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\progressbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\slider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\messagedialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\textbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\imagepanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\imageview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\vscrollpanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\colorwheel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\colorpicker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\stackedwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\tabheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\tabwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\glcanvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\tunnerer\libs\nanogui-sdl2\src\serializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\ext\glad\include\glad\glad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\ext\glad\include\KHR\khrplatform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\glutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\theme.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\layout.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\screen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\label.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\popup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\checkbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\popupbutton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\combobox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\progressbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\slider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\messagedialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\textbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\imagepanel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\imageview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\vscrollpanel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\colorwheel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\colorpicker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\graph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\stackedwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\tabheader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\tabwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\glcanvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\formhelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\toolbutton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\opengl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\nanogui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\serializer\core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\serializer\opengl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\tunnerer\libs\nanogui-sdl2\include\nanogui\serializer\sparse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Projects\tunnerer\libs\nanogui-sdl2\CMakeFiles\3ae72511d6ae791c4af6553971323ea6\nanogui_resources.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\tunnerer\libs\nanogui-sdl2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{617C1BEA-DD3A-3A7B-83B3-4D7D39907DE0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7899996E-4473-3CB0-BFA7-EFBCDE433C70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0F2E8233-78F5-3031-A217-99601CFC2C8F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

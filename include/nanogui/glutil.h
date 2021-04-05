@@ -121,7 +121,7 @@ public:
     void bind();
 
     /// Release underlying OpenGL objects
-    void free();
+    void xfree();
 
     /// Return the handle of a named shader attribute (-1 if it does not exist)
     GLint attrib(const std::string &name, bool warn = true) const;
@@ -334,7 +334,7 @@ public:
     void init();
 
     /// Release underlying OpenGL object
-    void free();
+    void xfree();
 
     /// Bind the uniform buffer to a specific binding point
     void bind(int index);
@@ -416,7 +416,7 @@ public:
     void init(const Vector2i &size, int nSamples);
 
     /// Release all associated resources
-    void free();
+    void xfree();
 
     /// Bind the framebuffer object
     void bind();

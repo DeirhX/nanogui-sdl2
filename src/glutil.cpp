@@ -280,7 +280,7 @@ void GLShader::drawArray(int type, uint32_t offset, uint32_t count) {
     glDrawArrays(type, offset, count);
 }
 
-void GLShader::free() {
+void GLShader::xfree() {
     for (auto &buf: mBufferObjects)
         glDeleteBuffers(1, &buf.second.id);
     mBufferObjects.clear();
@@ -311,7 +311,7 @@ void GLUniformBuffer::release() {
     glBindBufferBase(GL_UNIFORM_BUFFER, mBindingPoint, 0);
 }
 
-void GLUniformBuffer::free() {
+void GLUniformBuffer::xfree() {
     glDeleteBuffers(1, &mID);
     mID = 0;
 }
@@ -361,7 +361,7 @@ void GLFramebuffer::init(const Vector2i &size, int nSamples) {
     release();
 }
 
-void GLFramebuffer::free() {
+void GLFramebuffer::xfree() {
     glDeleteRenderbuffers(1, &mColor);
     glDeleteRenderbuffers(1, &mDepth);
     mColor = mDepth = 0;

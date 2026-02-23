@@ -22,6 +22,11 @@ nanogui*.pyd
 libnanogui.so
 libnanogui.dylib
 .vscode/
+.vs/
+out/
+*.vcxproj.user
+*.dir/
+x64/
 # html documentation specific
 *.pyc
 docs/_build

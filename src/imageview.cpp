@@ -89,7 +89,7 @@ ImageView::ImageView(Widget* parent, GLuint imageID)
 }
 
 ImageView::~ImageView() {
-    mShader.free();
+    mShader.xfree();
 }
 
 void ImageView::bindImage(GLuint imageId) {
